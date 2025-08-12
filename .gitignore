@@ -1,0 +1,35 @@
+# 全てを除外（デフォルト）
+/*
+
+# kakemochiテーマのみを追跡対象にする
+!/wp/
+/wp/*
+!/wp/wp-content/
+/wp/wp-content/*
+!/wp/wp-content/themes/
+/wp/wp-content/themes/*
+!/wp/wp-content/themes/kakemochi/
+
+# gitignoreファイル自体は追跡
+!.gitignore
+
+# その他の一般的な除外ファイル
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+node_modules/
+.env
+.env.local
+.env.production
+.env.staging
+
+# エディタ・システム関連
+.vscode/
+.idea/
+.claude/
+.serena/
+*.swp
+*.swo
+*~
+.htaccess

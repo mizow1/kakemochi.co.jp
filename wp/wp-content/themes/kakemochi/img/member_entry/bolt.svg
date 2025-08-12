@@ -1,0 +1,21 @@
+<svg width="105" height="121" viewBox="0 0 105 121" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M49.358 120.15L1.68 92.626c-1.75-1.011-1.528-2.791.492-3.958L48.864 61.71c2.02-1.167 5.104-1.295 6.854-.285l47.678 27.527c1.75 1.01 1.527 2.79-.493 3.957l-46.692 26.958c-2.02 1.166-5.105 1.294-6.855.284" fill="#FBE1B2" fill-opacity=".5" fill-rule="nonzero"/>
+        <path stroke="#33475C" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M57.859 58.34l-10.613-6.15-10.322 44.208 10.613 6.15zM85.979 33.872L67.724 23.293l3.875 18.795z"/>
+        <g stroke-linecap="round" stroke-linejoin="round" stroke="#33475C" stroke-width="5">
+            <path d="M51.587 27.162l-7.15 40.152L57.86 58.34l-10.322 44.208 38.442-68.676-14.38 8.216L77.35 8.65z"/>
+            <path d="M40.974 21.012l10.613 6.15L77.351 8.651 66.74 2.499z"/>
+        </g>
+        <path stroke="#33475C" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M40.974 21.012l-7.149 40.151 10.612 6.152 7.15-40.153z"/>
+        <path fill="#F6C364" fill-rule="nonzero" d="M57.859 58.34l-10.613-6.15-10.322 44.208 10.613 6.15z"/>
+        <path stroke="#33475C" stroke-linecap="round" stroke-linejoin="round" d="M57.859 58.34l-10.613-6.15-10.322 44.208 10.613 6.15z"/>
+        <path fill="#FFF" fill-rule="nonzero" d="M85.979 33.872L67.724 23.293l3.875 18.795z"/>
+        <path stroke="#33475C" stroke-linecap="round" stroke-linejoin="round" d="M85.979 33.872L67.724 23.293l3.875 18.795z"/>
+        <path fill="#FBE1B2" fill-rule="nonzero" d="M51.587 27.162l-7.15 40.152L57.86 58.34l-10.322 44.208 38.442-68.676-14.38 8.216L77.35 8.65z"/>
+        <path stroke="#33475C" stroke-linecap="round" stroke-linejoin="round" d="M51.587 27.162l-7.15 40.152L57.86 58.34l-10.322 44.208 38.442-68.676-14.38 8.216L77.35 8.65z"/>
+        <path fill="#FFF" fill-rule="nonzero" d="M40.974 21.012l10.613 6.15L77.351 8.651 66.74 2.499z"/>
+        <path stroke="#33475C" stroke-linecap="round" stroke-linejoin="round" d="M40.974 21.012l10.613 6.15L77.351 8.651 66.74 2.499z"/>
+        <path fill="#F9D28C" fill-rule="nonzero" d="M40.974 21.012l-7.149 40.151 10.612 6.152 7.15-40.153z"/>
+        <path stroke="#33475C" stroke-linecap="round" stroke-linejoin="round" d="M40.974 21.012l-7.149 40.151 10.612 6.152 7.15-40.153zM102.19 74.274L85.174 66.96M82.256 82.57l-3.084-7.88M84.22 87.586l-.445-1.135M89.195 56.293l-2.563 1.003M98.826 52.524l-5.778 2.262M5.93 74.52l17.286-6.65M14.401 54.66l7.711 3.486M9.493 52.442l1.11.502M27.79 78.312l1.133-2.508M23.53 87.736l2.555-5.653"/>
+    </g>
+</svg>
