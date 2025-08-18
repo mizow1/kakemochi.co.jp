@@ -1,5 +1,5 @@
 <?php 
-if($_GET['a']){
+if(!empty($_GET['a'])){
 	echo "<!--";var_dump('category-3ee');echo "-->"; 
 ini_set('display_errors',1);
 }
@@ -22,7 +22,7 @@ if(get_field('bread_crumb_html')){
 }
 ?>
 <?php 
-if($_GET['a']){
+if(!empty($_GET['a'])){
 	ini_set('display_errors',1);
 	echo "<!--";var_dump('category-20ee');echo "-->"; 
 }
@@ -32,7 +32,7 @@ if($_GET['a']){
 $category_detail = get_queried_object();
 
 // $paged = get_query_var( 'paged' ) ? intval( get_query_var( 'paged' ) ) : 1;
-$paged = $_GET['page']>0?$_GET['page']:1;
+$paged = (isset($_GET['page']) && intval($_GET['page']) > 0) ? intval($_GET['page']) : 1;
 $per_page = 4;
 $start_post_count = ($paged-1)*$per_page;
 $end_post_count = $start_post_count+$per_page; 

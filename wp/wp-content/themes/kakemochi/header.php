@@ -1,11 +1,15 @@
 <?php 
-$ogp_url = get_field('ogp_img')?get_field('ogp_img')['url']:get_theme_file_uri().'/img/ogp.jpg';
+global $post;
+$ogp_field = get_field('ogp_img');
+$ogp_url = !empty($ogp_field) && !empty($ogp_field['url']) ? $ogp_field['url'] : get_theme_file_uri().'/img/ogp.jpg';
 
 //会員登録後に元のページに戻るための記録（ログイン、登録ページ、member-thanks以外の投稿と固定ページが対象）
 if((is_page()||is_singular(['member','interview','column','post','video']))&&!is_page([2360])&&!is_page([2362])&&!is_single('member-thanks')){
 	unset($_SESSION['from_page']);
 	$_SESSION['from_page'] = (empty($_SERVER['HTTPS']) ? 'http://' : 'https://') . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
-	$_SESSION['from_page'] = $_SESSION['from_page'].'#more-'.$post->ID;//続きを読む箇所からスタートさせるページ内リンク
+	if(!empty($post) && !empty($post->ID)){
+		$_SESSION['from_page'] = $_SESSION['from_page'].'#more-'.$post->ID; //続きを読む箇所からスタートさせるページ内リンク
+	}
 }
 
 //member_login専用
@@ -51,7 +55,7 @@ $redirect_url = !empty($_SESSION['from_page']) ? $_SESSION['from_page'] : home_u
 	<!-- js end -->
     <link rel="stylesheet" href="<?php echo get_theme_file_uri(); ?>/js/slick/slick.css">
 	<script src="<?php echo get_theme_file_uri(); ?>/js/slick/slick.min.js"></script>
-	<?php if($post->post_name=='member_entry'): ?>
+	<?php if(!empty($post) && isset($post->post_name) && $post->post_name=='member_entry'): ?>
 	<script src="<?php echo get_theme_file_uri(); ?>/js/side_bar.js"></script>
 	<?php endif; ?>
 	<script src="<?php echo get_theme_file_uri(); ?>/js/slick.op.js"></script>
@@ -69,11 +73,11 @@ $redirect_url = !empty($_SESSION['from_page']) ? $_SESSION['from_page'] : home_u
 	<!-- ogp end -->
 <?php wp_head(); ?>
 <?php get_template_part('before_close_head'); ?>
-	<?php if(get_post_meta($post->ID, 'thumbnail_img',true)):?>
+	<?php if(!empty($post) && !empty($post->ID) && get_post_meta($post->ID, 'thumbnail_img',true)):?>
         <?php $thum_img = get_field('thumbnail_img');
                 $thumbnail_image = $thum_img['url'];?>
 	<?php else:?>
-        <?php if (is_single() && has_post_thumbnail($post->ID)) {
+		<?php if (is_single() && !empty($post) && !empty($post->ID) && has_post_thumbnail($post->ID)) {
             $thumbnail_id = get_post_thumbnail_id($post->ID);
             $image = wp_get_attachment_image_src( $thumbnail_id, 'full' );
             $thumbnail_image = $image[0];
