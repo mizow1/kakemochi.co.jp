@@ -13,13 +13,13 @@
                         <a href="/visa-services/" class="gnav_top_l">ビザ申請</a>
                     </li>
                     <li class="new_nav_1st new_nav_2nd_3">
-                        <a href="/marketing-services/inspection-tour/" class="gnav_top_l">現地視察</a>
+                        <a href="/founding-services/inspection-tour/" class="gnav_top_l">現地視察</a>
                     </li>
                     <li class="new_nav_1st new_nav_2nd_4">
                         <a href="/founding-services/" class="gnav_top_l">法人設立</a>
                     </li>         
                     <li class="new_nav_1st new_nav_2nd_5">
-                        <a href="/column/price-list-for-indonesia/" class="gnav_top_l">駐在員向け</a>
+                        <a href="/sales-services/affluent-market-sales/" class="gnav_top_l">富裕層向け</a>
                     </li>
                     <li class="new_nav_1st new_nav_2nd_6">
                         <a href="/company/" class="gnav_top_l">企業情報</a>

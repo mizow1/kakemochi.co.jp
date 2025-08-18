@@ -29644,7 +29644,9 @@ body.column_bg{
 }
 
 
-
+.remain_str_count{
+	display: none;
+}
 
 /* 20240125 remarketing --------------------------------------------*/
 #remarketing #textpage>.inner {
@@ -34137,7 +34139,7 @@ ol.page_index_level_1>li{
 	background: #fff;
 	font-size: 13px;
 	position: fixed;
-	bottom: 18em;
+	bottom: 20em;
 	right: 7em;
 	z-index: 903;
 	height: 50px;
@@ -34535,7 +34537,7 @@ ol.page_index_level_1>li{
 }
 
 #textpage .inner .company_links.career_list .company_links_ttl {
-	font-size: 90%;
+	font-size: 110%;
 	line-height: 1.5;
 }
 
@@ -35103,7 +35105,7 @@ ol.page_index_level_1>li{
 
 
 .green {
-	color: #09af50;
+	color: #68C19E;
 	font-weight: bold;
 }
 

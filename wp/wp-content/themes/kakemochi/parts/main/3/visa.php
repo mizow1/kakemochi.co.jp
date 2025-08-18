@@ -1,32 +1,23 @@
-<div class="page_index_box">
-	<h2 class="new_h2_ttl">現地視察に役立つ情報が必要な方へ<br><span class="page_index_box_ttl_s">（クリックすれば読みたい記事へ移動できます）</span></h2>
+<hr class="bace_c_line">
+<div style="margin-top: 50px;"></div>
+<div class="parts_area_ttl">現地視察時のトラブル体験談</div>
+<div style="margin-top: 30px;"></div>
+<div class="common_parts_w1000">
 
-	<dl class="page_index_list">
-		<dt><a href="/column/complete-guide-to-preparing-for-your-indonesian-visit/">01</a></dt>
-		<dd>
-			<h3><a href="/column/complete-guide-to-preparing-for-your-indonesian-visit/">インドネシアへ向けた現地視察準備の完全ガイド</a></h3>
-		</dd>
-	</dl>
-	<dl class="page_index_list">
-		<dt><a href="/column/recommended-restaurants-when-visiting-indonesia-for-an-on-site-inspection/">02</a></dt>
-		<dd>
-			<h3><a href="/column/recommended-restaurants-when-visiting-indonesia-for-an-on-site-inspection/">ジャカルタへ現地視察に行く際のおすすめ「飲食店」</a></h3>
-		</dd>
-	</dl>
-	<dl class="page_index_list">
-		<dt><a href="/column/recommended-hotels-for-on-site-inspections-in-indonesia/">03</a></dt>
-		<dd>
-			<h3><a href="/column/recommended-hotels-for-on-site-inspections-in-indonesia/">ジャカルタへ現地視察に行く際のおすすめ「ホテル」</a></h3>
-		</dd>
-	</dl>
-	<dl class="page_index_list">
-		<dt><a href="/column/how-to-use-sim-cards-and-esims-in-indonesia/">04</a></dt>
-		<dd>
-			<h3><a href="/column/how-to-use-sim-cards-and-esims-in-indonesia/">インドネシアでSIMカードやeSIMを使う方法</a></h3>
-		</dd>
-	</dl>
-	<script src="https://js-na2.hsforms.net/forms/embed/20720568.js" defer></script>
-	<div class="hs-form-frame" data-region="na2" data-form-id="1d8e93e1-18d3-49b7-810b-dad48dc0799d" data-portal-id="20720568"></div>
-	<p><span class="ttl_under_line2">インドネシアの最新のビジネス情報が必要な方は、弊社の無料のニュースレターにご登録ください。インドネシアでのビジネスに興味がある1,600名以上の方々にご登録をいただいております。</span></p>
+    <ul class="access_com_list bace_ul_clear">
+        <li>
+            <p class="ttl">タクシーのトラブル</p>
+            <p class="name">Web/IT企業</p>
+            <p class="txt">現地での移動は配車アプリを利用する予定でしたが、ちょうど朝のラッシュ時間帯と大雨が重なり、<span class="orange">30分以上待ってもタクシーがつかまりませんでした。</span>結局、急遽バイクタクシーを手配したものの渋滞で到着が遅れ、午前中に予定していた2件の商談のうち1件は延期せざるを得ませんでした。</p>
+        </li>
+        <li>
+            <p class="ttl">通訳のトラブル</p>
+            <p class="name">化粧品メーカー</p>
+            <p class="txt">ジャカルタ市内から郊外の取引先に移動したところ、フリーランスの現地通訳が突然キャンセル。英語が通じにくい地域だったため、商談の細かいニュアンスを伝えきれなかったので悔やしい思いをしました。<span class="orange">安価なフリーランスではなく、企業に依頼しておけば良かったと後悔しました。</span></p>
+        </li>
+    </ul>
+
 </div>
 
+<div style="margin-top: 30px;"></div>
+<a href="/founding-services/market-research/inspection-tour/" class="btn_all">現地視察サービスの概要はこちら</a>

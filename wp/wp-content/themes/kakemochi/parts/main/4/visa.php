@@ -1,23 +1,35 @@
-<hr class="bace_c_line">
 <div style="margin-top: 50px;"></div>
-<div class="parts_area_ttl">ビザ申請でのトラブル体験談</div>
-<div style="margin-top: 30px;"></div>
-<div class="common_parts_w1000">
-
-    <ul class="access_com_list bace_ul_clear">
-        <li>
-            <p class="ttl">エージェントとのトラブル1</p>
-            <p class="name">自動車部品メーカー</p>
-            <p class="txt">格安料金をうたうエージェントに飛びついたものの、対応は全てテンプレートメール。質問への返答は遅く、肝心の書類チェックはほぼ形だけ。結果、記載ミスが見逃され、申請は却下。再申請のために追加費用と時間がかかった。<span class="orange">ビザは金額の安さだけで選んではいけないと改めて実感した。</span>最初から信頼できる業者を選べばよかったと痛感。</p>
-        </li>
-        <li>
-            <p class="ttl">エージェントとのトラブル2</p>
-            <p class="name">化学素材系メーカー</p>
-            <p class="txt">大手エージェントに依頼し、営業の担当マンから聞いた「全てお任せください」という言葉を信じて準備を始めたが、<span class="orange">担当者が頻繁に変わり、そのたびに説明や提出書類が食い違う事態に。</span>最後には「この書類は最初から不要でした」と言われ、とにかく振り回されました。形式的な謝罪だけで、精神的な疲労とストレスがしんどかった。</p>
-        </li>
-    </ul>
-
+<div class="ctagr">
+	<div class="title">
+	弊社にビザ申請を<br class="sp">ご発注いただくメリット
+	</div>
+	<div class="body">ビザ申請をどこかの企業に外注した際に、ビザの見積金額は大体どこも同じような金額です。よって、金額以外の部分で弊社から以下の特典をご提供しています。<br><br><span class="green">LINEかWhatsAppグループを作り、渡航時に問題が起きたらいつでも無料でご相談いただけます。</span>現地視察時には予期せぬトラブルに巻き込まれることがありますが、弊社がチーム単位でサポートすることで問題を迅速に解決していきます。
+    </div>
 </div>
 
-<div style="margin-top: 30px;"></div>
-<a href="/contact/" class="btn_all">ビザ申請の相談を無料でする</a>
+<div class="sv_box_wrap">
+	<div class="sv_box_inner">
+	<ul class="company_links career_list company_links_one letter_txt">
+		<li>
+			<div class="company_links_txt_inner">
+				<p class="company_links_ttl"><span class="orange">●</span>制作会社様</p>
+				<p class="txt">通訳を手配せずに渡航したのはいいけど、地元警察との対応に困っていた時に助けてもらった。</p>
+			</div>
+		</li>
+		<li>
+			<div class="company_links_txt_inner">
+				<p class="company_links_ttl"><span class="orange">●</span>紹介会社様</p>
+				<p class="txt">急遽会議室の準備が必要になった時に、代わりに手配をしてもらえたのはありがたかったです。</p>
+			</div>
+		</li>
+		<li>
+			<div class="company_links_txt_inner">
+				<p class="company_links_ttl"><span class="orange">●</span>化粧品会社様</p>
+				<p class="txt">夜に同僚と飲み終わった後、タクシーを捕まえられなかった時に車を手配してくれて助かった。</p>
+			</div>
+		</li>
+	</ul>
+	</div>
+	<a href="/visa-services/"><p class="footer_btns_txt_btn"><span>ビザの種類と目的の説明はこちら</span></p></a>
+</div>
+

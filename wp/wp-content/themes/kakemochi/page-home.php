@@ -68,7 +68,7 @@ if(get_the_post_thumbnail_url($post->ID, "full")){
 				<div class="inner1000">
 					<div class="box">
 						<div class="txt_box">
-							<p class="ttl orange">【8月13日】無料のオンラインセミナー</p>
+							<p class="ttl orange">【8月20日】無料のオンラインセミナー</p>
 							<p class="txt">外資の進出ハードルが高いインドネシアで<br>法人を設立せずに参入する方法を解説します。</p>
 							<a href="/seminar/overseas-expansion-to-indonesia/" class="txt_link">詳しくはこちら ></a>
 							<a href="/seminar/overseas-expansion-to-indonesia/"><p class="btm">セミナー参加者限定の<br class="sp">無料相談会あり</p></a>
@@ -673,25 +673,25 @@ if(get_the_post_thumbnail_url($post->ID, "full")){
 					<!--<p class="t_txt">インドネシア市場に特化してサービスを提供しているため、幅広いサービスラインナップを取り揃えています。</p>-->
 					<ul class="index_renew_service_ind_list">
 						<li>
-							<p class="ttl"><a href="<?php echo home_url(); ?>/strategy/">インドネシアへの進出コンサルサービス</a></p>
+							<p class="ttl"><a href="<?php echo home_url(); ?>/founding-services/">進出支援</a></p>
 							<ul class="list_in">
-								<li><a href="<?php echo home_url(); ?>/founding-services/founding-representative-office/">駐在員事務所設立</a></li>
 								<li><a href="<?php echo home_url(); ?>/founding-services/">法人設立</a></li>
-								<li><a href="<?php echo home_url(); ?>/marketing-services/">市場調査</a></li>
-								<li><a href="<?php echo home_url(); ?>/marketing-services/survey/">アンケート調査</a></li>
-								<li><a href="<?php echo home_url(); ?>/strategy/second-opinion/">セカンドオピニオン</a></li>									
-								<li><a href="<?php echo home_url(); ?>/strategy/government-subsidy/">補助金支援サービス</a></li>
+								<li><a href="<?php echo home_url(); ?>/founding-services/founding-representative-office/">駐在員事務所設立</a></li>
+								<li><a href="<?php echo home_url(); ?>/founding-services/offshore-development/">オフショア開発</a></li>
+								<li><a href="<?php echo home_url(); ?>/founding-services/market-research/">市場調査</a></li>
+								<li><a href="<?php echo home_url(); ?>/founding-services/survey/">アンケート調査</a></li>
 								<li><a href="<?php echo home_url(); ?>/halal-business-services/">ハラル対応支援サービス</a></li>
 							</ul>
 						</li>
 						<li>
-							<p class="ttl"><a href="<?php echo home_url(); ?>/sales-services/">営業代行</a></p>
+							<p class="ttl"><a href="<?php echo home_url(); ?>/founding-services/">管理業務支援</a></p>
 							<ul class="list_in">
-								<li><a href="<?php echo home_url(); ?>/sales-services/employer-of-record/">雇用代行</a></li>
-								<li><a href="<?php echo home_url(); ?>/sales-services/test-marketing/">テスト販売</a></li>
-								<li><a href="<?php echo home_url(); ?>/sales-services/cross-border-e-commerce/">越境EC</a></li>
-								<li><a href="<?php echo home_url(); ?>/sales-services/live-commerce/">ライブコマース</a></li>
-								<li><a href="<?php echo home_url(); ?>/sales-services/cross-border-e-commerce/">化粧品販売</a></li>
+								<li><a href="<?php echo home_url(); ?>/founding-services/accounting/">会計・経理業務</a></li>
+								<li><a href="<?php echo home_url(); ?>/founding-services/human-resources/">人事・労務業務</a></li>
+								<li><a href="<?php echo home_url(); ?>/founding-services/online-secretary/">総務・秘書業務</a></li>
+								<li><a href="<?php echo home_url(); ?>/founding-services/translation/">通訳・翻訳</a></li>
+								<li><a href="<?php echo home_url(); ?>/founding-services/second-opinion/">セカンドオピニオン</a></li>
+								<li><a href="<?php echo home_url(); ?>/founding-services/government-subsidy/">補助金支援サービス</a></li>								
 							</ul>
 						</li>
 						<li>
@@ -708,13 +708,14 @@ if(get_the_post_thumbnail_url($post->ID, "full")){
 							</ul>
 						</li>
 						<li>
-							<p class="ttl"><a href="<?php echo home_url(); ?>/founding-services/">バックオフィス支援</a></p>
+							<p class="ttl"><a href="<?php echo home_url(); ?>/sales-services/">営業支援</a></p>
 							<ul class="list_in">
-								<li><a href="<?php echo home_url(); ?>/founding-services/accounting/">会計・経理業務</a></li>
-								<li><a href="<?php echo home_url(); ?>/founding-services/human-resources/">人事・労務業務</a></li>
-								<li><a href="<?php echo home_url(); ?>/founding-services/online-secretary/">総務・秘書業務</a></li>
-								<li><a href="<?php echo home_url(); ?>/founding-services/translation/">通訳・翻訳</a></li>
-								<li><a href="<?php echo home_url(); ?>/founding-services/offshore-development/">オフショア開発</a></li>
+								<li><a href="<?php echo home_url(); ?>/sales-services/employer-of-record/">雇用代行</a></li>
+								<li><a href="<?php echo home_url(); ?>/sales-services/affluent-market-sales/">富裕層向け販売支援</a></li>
+								<li><a href="<?php echo home_url(); ?>/sales-services/test-marketing/">テスト販売</a></li>
+								<li><a href="<?php echo home_url(); ?>/sales-services/cross-border-e-commerce/">越境EC</a></li>
+								<li><a href="<?php echo home_url(); ?>/sales-services/live-commerce/">ライブコマース</a></li>
+								<li><a href="<?php echo home_url(); ?>/sales-services/cross-border-e-commerce/">化粧品販売</a></li>
 							</ul>
 						</li>
 					</ul>
