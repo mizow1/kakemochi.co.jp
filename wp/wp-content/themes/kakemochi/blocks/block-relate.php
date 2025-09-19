@@ -13,15 +13,17 @@ if(get_post_type($post_id)=='page'){
 	//デフォルトメインビジュアル画像
 	$post_img_url = get_theme_file_uri().'/img/cross-border-e-commerce/visual_img.png';//メインビジュアル画像のデフォルト画像
 	//指定メインビジュアル画像
-	if(get_field('no_img_main_visual_img',$post_id)['url']){
-		$post_img_url = get_field('no_img_main_visual_img',$post_id)['url'];
+	$main_visual_img = get_field('no_img_main_visual_img',$post_id);
+	if($main_visual_img && is_array($main_visual_img) && isset($main_visual_img['url'])){
+		$post_img_url = $main_visual_img['url'];
 	}
 }
 if(get_the_post_thumbnail_url($post_id,'thumbnail')){
 	$post_img_url = get_the_post_thumbnail_url($post_id,'thumbnail');//アイキャッチ
 }
-if(get_field('thumbnail_img',$post_id)['url']){
-	$post_img_url = get_field('thumbnail_img',$post_id)['url'];//サムネイル画像
+$thumbnail_img = get_field('thumbnail_img',$post_id);
+if($thumbnail_img && is_array($thumbnail_img) && isset($thumbnail_img['url'])){
+	$post_img_url = $thumbnail_img['url'];//サムネイル画像
 }
 ?>
 <div class="other_article">

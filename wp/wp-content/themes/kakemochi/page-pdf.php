@@ -37,7 +37,8 @@
 	<a download href="<?php echo get_field('file'); ?>" class="pdf_download">
 		PDFのダウンロードはこちら
 	</a>
-<?php 
+<?php
+$sidebar = ''; // サイドバーの初期値を設定
 $args['sidebar']=$sidebar;
 get_footer('',$args);
 ?>
