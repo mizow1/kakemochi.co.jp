@@ -1,4 +1,32 @@
 <div class="page_index_box">
-	<h2 class="new_h2_ttl"><span class="orange">インドネシアへ現地視察する際の注意点</span></h2>
-	<p class="h2_bottom_txt">「本当は工場を訪問して機械のメンテナンスをすることが目的だけど、ビザ取得が煩雑そうなので、とりあえず到着ビザ（VOA）でこっそりメンテナンスをしよう」と考える方もいます。<br><br>ところが、<span class="ttl_under_line2">目的に合ったビザを取得しなかったことでトラブルに巻き込まれるケースを多数見聞きしてきたので、</span>適切なビザを申請して訪問することを強くおすすめします。<br><br>「なぜバレるのか」という疑問がわくかもしれませんが、その1つとして<span class="ttl_under_line2">宿泊施設と入国管理局（イミグレ）との連携があります。</span>インドネシアでは外国人を宿泊・滞在させるときに、宿泊施設がイミグレに報告する義務があります。そこの連携が原因で目的外の活動をした際に、その行為がバレてしまうのです。<br><br><a href="/visa-services/">ビザの種類と目的はこちら</a></p>
+	<h2 class="new_h2_ttl">現地視察に役立つ情報が必要な方へ<br><span class="page_index_box_ttl_s">（クリックすれば読みたい記事へ移動できます）</span></h2>
+
+	<dl class="page_index_list">
+		<dt><a href="/column/complete-guide-to-preparing-for-your-indonesian-visit/">01</a></dt>
+		<dd>
+			<h3><a href="/column/complete-guide-to-preparing-for-your-indonesian-visit/">インドネシアへ向けた現地視察準備の完全ガイド</a></h3>
+		</dd>
+	</dl>
+	<dl class="page_index_list">
+		<dt><a href="/column/recommended-restaurants-when-visiting-indonesia-for-an-on-site-inspection/">02</a></dt>
+		<dd>
+			<h3><a href="/column/recommended-restaurants-when-visiting-indonesia-for-an-on-site-inspection/">ジャカルタへ現地視察に行く際のおすすめ「飲食店」</a></h3>
+		</dd>
+	</dl>
+	<dl class="page_index_list">
+		<dt><a href="/column/recommended-hotels-for-on-site-inspections-in-indonesia/">03</a></dt>
+		<dd>
+			<h3><a href="/column/recommended-hotels-for-on-site-inspections-in-indonesia/">ジャカルタへ現地視察に行く際のおすすめ「ホテル」</a></h3>
+		</dd>
+	</dl>
+	<dl class="page_index_list">
+		<dt><a href="/column/how-to-use-sim-cards-and-esims-in-indonesia/">04</a></dt>
+		<dd>
+			<h3><a href="/column/how-to-use-sim-cards-and-esims-in-indonesia/">インドネシアでSIMカードやeSIMを使う方法</a></h3>
+		</dd>
+	</dl>
 </div>
+	<p><span class="ttl_under_line2">インドネシアのビジネス情報が必要な方は、下記の無料のニュースレターにご登録ください。1,600名以上の方々にご登録をいただいております。</span></p>
+	<script src="https://js-na2.hsforms.net/forms/embed/20720568.js" defer></script>
+	<div class="hs-form-frame" data-region="na2" data-form-id="1d8e93e1-18d3-49b7-810b-dad48dc0799d" data-portal-id="20720568"></div>
+

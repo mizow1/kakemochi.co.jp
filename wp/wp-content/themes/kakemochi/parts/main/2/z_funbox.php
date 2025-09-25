@@ -13,17 +13,5 @@
 			<h3><a href="/sales-services/sales-of-original-goods/">オリジナルグッズを活用した集客について</a></h3>
 		</dd>
 	</dl>
-	<dl class="page_index_list">
-		<dt><a href="/column/novelty-situation-in-indonesia/">03</a></dt>
-		<dd>
-			<h3><a href="/column/novelty-situation-in-indonesia/">インドネシアにおけるノベルティ事情</a></h3>
-		</dd>
-	</dl>
-	<dl class="page_index_list">
-		<dt><a href="/column/effective-promotion-in-indonesia/">04</a></dt>
-		<dd>
-			<h3><a href="/column/effective-promotion-in-indonesia/">インドネシアでの効果的なプロモーション方法</a></h3>
-		</dd>
-	</dl>
-	<p>情報が足りなければ、<a href="/contact/">こちら</a>からご連絡をいただければ必要な情報を共有させていただきます。インターネットで1週間や1ヶ月時間を使って調べるよりも、弊社の進出専門家と30分お話いただくだけで、意外と簡単にお悩みが解決できたりするのでおすすめです。</p>
+	<p>情報が足りなければ、<a href="/contact/">こちら</a>からご連絡をいただければ必要な情報を共有させていただきます。インターネットで時間を使って調べるよりも、弊社と30分お話いただくだけで、意外と簡単にお悩みが解決できたりするのでおすすめです。</p>
 </div>

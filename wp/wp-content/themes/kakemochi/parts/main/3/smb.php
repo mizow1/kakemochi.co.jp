@@ -26,6 +26,6 @@
 		</dd>
 	</dl>
 </div>
-	<p><span class="ttl_under_line2">インドネシアの最新のビジネス情報が必要な方は、弊社の無料のニュースレターにご登録ください。インドネシアでのビジネスに興味がある1,600名以上の方々にご登録をいただいております。</span></p>
+	<p><span class="ttl_under_line2">インドネシアのビジネス情報が必要な方は、下記の無料のニュースレターにご登録ください。1,600名以上の方々にご登録をいただいております。</span></p>
 	<script src="https://js-na2.hsforms.net/forms/embed/20720568.js" defer></script>
 	<div class="hs-form-frame" data-region="na2" data-form-id="1d8e93e1-18d3-49b7-810b-dad48dc0799d" data-portal-id="20720568"></div>

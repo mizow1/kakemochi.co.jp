@@ -8,7 +8,7 @@
 </div>
 
 <div class="sv_box_wrap">
-	<div class="sv_box_inner">
+	<div class="sv_box_inner list_column_voice_box">
 	<ul class="company_links career_list company_links_one letter_txt">
 		<li>
 			<div class="company_links_txt_inner">

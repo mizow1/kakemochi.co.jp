@@ -1,4 +1,13 @@
-<hr class="bace_c_line">
-<p class="t_txt"><span class="ttl_under_line2">ここまで記事をご覧いただいて何かご不明点や疑問点があれば、下記よりご質問ください。<br>一両日中にご返信をさせていただきます。<br>インドネシアのビザ関連のご質問であれば何でも構いません。</span></p>
-<script src="https://js.hsforms.net/forms/embed/20720568.js" defer></script>
-<div class="hs-form-frame" data-region="na1" data-form-id="1a71bb4b-7759-4a8e-8cd0-6c4cf88c2705" data-portal-id="20720568"></div>
+<div style="margin-top: 50px;"></div>
+<div class="page_index_box">
+    <div class="parts_area_ttl">法人設立前に、まずはインドネシアでテスト販売をしてみませんか？</div>
+    <div class="bounce-ideas-off-client_toplist">
+        <ul>
+            <li>自社サービスが売れるか試してみたい</li>            
+            <li>法人を設立せずにテスト販売をしたい</li>            
+            <li>現地企業からの感想をヒアリングしたい</li> 
+            <li>自社サービスのニーズを把握したい</li>
+        </ul>
+    </div>
+	<a href="/sales-services/"><p class="footer_btns_txt_btn"><span>販売代理の詳細はこちら</span></p></a>
+</div>

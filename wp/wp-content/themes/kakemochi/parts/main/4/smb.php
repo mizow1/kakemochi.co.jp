@@ -4,7 +4,7 @@
 <div style="margin-top: 30px;"></div>
 <div class="common_parts_w1000">
 
-    <ul class="access_com_list bace_ul_clear">
+    <ul class="access_com_list bace_ul_clear list_column_trouble">
         <li>
             <p class="ttl">内資法人設立トラブル</p>
             <p class="name">人材紹介会社</p>

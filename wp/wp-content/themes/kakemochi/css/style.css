@@ -19713,7 +19713,7 @@ body.column_bg{
 }
 
 .bounce-ideas-off-client_toplist ul li {
-	font-size: 130%;
+	font-size: 120%;
 	font-weight: 700;
 	margin-bottom: 10px;
 	position: relative;
@@ -19748,10 +19748,10 @@ body.column_bg{
 		width: 205px;
 		height: 129px;
 		right: auto;
-		left: 50%;
+		left: 110%;
 		margin-left: -102px;
-		bottom: 15px;
-	}	
+		top: 160px;
+	}
 
 	#textpage .bounce-ideas-off-client_toplist ul {
 		padding: 15px 15px 150px 15px;
@@ -34165,7 +34165,7 @@ ol.page_index_level_1>li{
 		padding: 1.5em;
 	}
 	.modal_index_toggle{
-		left: 1em;
+		right: 1em;
 		bottom: 5em;
 	}
 	.column ol.page_index_level_1{
@@ -34499,7 +34499,7 @@ ol.page_index_level_1>li{
 
 .td_big_center {
 	text-align: center;
-	font-size: 1.2rem;
+	font-size: 1rem;
 }
 
 .td_big_center .small {
@@ -35115,4 +35115,412 @@ ol.page_index_level_1>li{
 
 .wp-block-table tr th a {
 	color: #fff;
+}
+
+
+
+/*20250819海外赴任支援ページの修正*/
+
+.founding-services-relocation_bg {
+	background: url(../img/relocation/visual_bg.png) no-repeat;
+	background-size: cover;
+	padding: 40px 20px 80px 20px;
+	;
+	box-sizing: border-box;
+}
+
+.founding-services-relocation_visual {
+	max-width: 951px;
+	margin: 0 auto;
+}
+
+@media screen and (max-width:743px) {
+	.founding-services-relocation_bg {
+		padding: 20px 10px 40px 10px;
+	}
+}
+
+
+.h2_bottom_txt_bg_glay {
+	background: #eeeeee;
+	display: block;
+	padding: 5px 10px;
+	box-sizing:border-box;
+	letter-spacing: -1px;
+}
+
+
+
+
+.shien_list {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 30px;
+}
+
+.shien_list dt {
+	width: 23%;
+	background: #f0882e;
+	color: #fff;
+	font-weight: 700;
+	border-radius: 10px;
+	padding: 20px 10px;
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 1.8rem;
+	line-height: 1.2;
+	box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.1);
+}
+
+.shien_list dd {
+	width: 23%;
+	background: #fff;
+	border-radius: 5px;
+	box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.1);
+	padding: 20px 10px;
+	box-sizing: border-box;
+}
+
+.shien_list_img {
+	max-width: 170px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+#textpage .inner p.shien_list_txt {
+	margin-bottom: 0;
+	line-height: 1.2;
+	text-align:center;
+	font-weight: 500;
+	font-size: 1rem;
+}
+
+.shien_list_wrap {
+	margin-bottom: 100px;
+}
+
+@media screen and (max-width:743px) {
+	.shien_list {
+	flex-wrap: wrap;
+}
+
+.shien_list dt {
+	width: 48%;
+	font-size: 1.4rem;
+	margin-bottom: 15px;
+}
+.shien_list dd {
+	width: 48%;
+	margin-bottom: 15px;
+}
+
+#textpage .inner p.shien_list_txt {
+	font-size: .75rem;
+}
+
+.shien_list_wrap {
+	margin-bottom: 50px;
+}
+
+}
+
+
+.relocation_step {
+	max-width:900px;
+	margin: 0 auto;
+	
+}
+
+.relocation_step_img {
+margin-bottom: 20px;
+}
+
+.relocation_step_txt {
+	display: flex;
+	justify-content: space-between;
+}
+
+.relocation_step_txt dl {
+	width: 18%;
+	border: 1px solid #f0882e;
+	background: #fff;
+	border-radius: 10px;
+}
+
+.relocation_step_txt dl dt {
+	background: #f0882e;
+	border-radius: 10px 10px 0px 0px;
+	color: #fff;
+	font-weight: 500;
+	text-align: center;
+	padding: 10px 10px;
+	box-sizing: border-box;
+	line-height: 1.2;
+	font-size: .9rem;
+}
+
+.relocation_step_txt dl dd {
+	text-align: center;
+	padding: 10px 10px;
+	box-sizing: border-box;
+	line-height: 1.2;
+	font-size: .9rem;
+	min-height: 60px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.spacer100 {
+	height: 100px;
+}
+
+
+@media screen and (max-width:743px) {
+	.relocation_step_txt {
+	flex-wrap: wrap;
+}
+.relocation_step_txt dl {
+	width: 48%;
+	margin-bottom: 10px;
+}
+.relocation_step_txt dl dt {
+	font-size: .8rem;
+}
+.relocation_step_txt dl dd {
+	font-size: .8rem;
+	min-height: 50px;
+}
+.spacer100 {
+	height: 50px;
+}
+
+}
+
+
+/*20250829富裕層向けページの修正*/
+.list_reason_with_case {
+	background: none!important;
+	padding: 0!important;
+	margin-top: 60px;
+}
+.list_reason_with_case li {
+	list-style: none!important;
+	background: #fff;
+	border-radius: 20px;
+	box-shadow: 0px 0px 20px 7px rgba(0, 0, 0, 0.06);
+	padding: 60px 40px 40px;
+	position: relative;
+} 
+.list_reason_with_case li:not(:last-child) {
+	margin-bottom: 70px!important;
+}
+.list_reason_with_case .list_reason_with_case_num {
+	width: 76px;
+	min-width: 76px;
+	height: 76px;
+	background: #f0882e;
+	border-radius: 100%;
+	color: #fff;
+	font-size: 200%;
+	font-weight: 700!important;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	right: 50%;
+	top: -35px;
+	transform: translate(50%,0);
+}
+.list_reason_with_case .list_reason_with_case_ttl {
+	text-align: center;
+	font-size: 160%;
+	margin-bottom: 15px;
+}
+.list_reason_with_case .list_reason_with_case_txt {
+	line-height: 1.8;
+}
+.list_reason_with_case .list_reason_with_case_box {
+	background: #f7f3ee;
+	border-radius: 10px;
+	padding: 20px 40px;
+	position: relative;
+}
+.list_reason_with_case .list_reason_with_case_tag {
+	width: 79px;
+	min-width: 79px;
+	height: 50px;
+	background: url(../img/sales-services/affluent-market-sales/tag.png)no-repeat center/100%;
+	color: #fff;
+	text-align: center;
+	font-weight: 700!important;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	left: -50px;
+	top: 10px;
+}
+.list_reason_with_case .list_reason_with_case_box_txt {
+	width: 80%;
+	line-height: 1.8;
+	margin-bottom: 0!important;
+}
+.list_reason_with_case .list_reason_with_case_img {
+	position: absolute;
+	z-index: 5;
+	right: 10px;
+	top: -15px;
+}
+.list_reason_with_case .list_reason_with_case_img.img01 img {
+	max-width: 241px;
+}
+.list_reason_with_case .list_reason_with_case_img.img02 img {
+	max-width: 139px;
+}
+.list_reason_with_case .list_reason_with_case_img.img03 img {
+	max-width: 129px;
+}
+@media screen and (max-width:743px) {
+	.area.list_reason_with_case_area {
+		padding: 40px 0;
+	}
+	.list_reason_with_case {
+		background: none!important;
+		padding: 0!important;
+		margin-top: 60px;
+	}
+	.list_reason_with_case li {
+		padding: 40px 20px 30px;
+	} 
+	.list_reason_with_case li:not(:last-child) {
+		margin-bottom: 60px!important;
+	}
+	.list_reason_with_case .list_reason_with_case_num {
+		width: 60px;
+		min-width: 60px;
+		height: 60px;
+	}
+	.list_reason_with_case .list_reason_with_case_ttl {
+		text-align: center;
+		font-size: 140%;
+		margin-bottom: 15px!important;
+	}
+	.list_reason_with_case .list_reason_with_case_box {
+		padding: 20px 30px 50px 30px;
+	}
+	.list_reason_with_case .list_reason_with_case_tag {
+		width: 55px;
+		min-width: 55px;
+		height: 35px;
+		left: -30px;
+		font-size: 90%;
+	}
+	.list_reason_with_case .list_reason_with_case_box_txt {
+		width: 100%;
+	}
+	.list_reason_with_case .list_reason_with_case_img {
+		position: absolute;
+		z-index: 5;
+		right: -10px;
+		top: inherit;
+		bottom: -35%;
+	}
+	.list_reason_with_case .list_reason_with_case_img.img01 img {
+		max-width: 128px;
+	}
+	.list_reason_with_case .list_reason_with_case_img.img02 img {
+		max-width: 97px;
+	}
+	.list_reason_with_case .list_reason_with_case_img.img03 img {
+		max-width: 90px;
+	}
+}
+
+/*20250829 sales-services メインビジュアルの変更*/
+.sales-services_visual_bg {
+	background: url(../img/sales-services/visual_bg.png) no-repeat center/cover;
+}
+
+/*20250829 visa-on-arrival-in-indonesia コラムページのCTA内のCSS修正*/
+.list_column_trouble .ttl {
+	margin: 0 0 20px!important;
+}
+.list_column_trouble .txt {
+	font-size: inherit!important;
+	margin: 0!important;
+}
+.access_com_list.list_column_trouble li .ttl::before {
+    background: url(../img/column/icon_problem.png) no-repeat left top /25px 35px;
+    width: 25px;
+    height: 35px;
+    left: 10px;
+    top: 0;
+}
+@media screen and (max-width:743px) {
+	.list_column_trouble .name {
+		margin-bottom: 10px!important;
+	}
+}
+.list_column_voice_box {
+	padding: 0!important;
+}
+.list_column_voice_box ul {
+	justify-content: space-between;
+}
+.list_column_voice_box li {
+	margin: 0!important;
+}
+.list_column_voice_box .company_links.career_list .company_links_txt_inner {
+    padding: 20px;
+}
+.list_column_voice_box .company_links.career_list li .company_links_ttl {
+	margin: 0 0 15px!important;
+}
+.list_column_voice_box li .txt {
+	margin: 0!important;
+	padding: 0!important;
+	font-size: inherit!important;
+}
+@media screen and (max-width:743px) {
+	.list_column_voice_box li {
+		padding: 0!important;
+	}
+	.list_column_voice_box .company_links.career_list li .company_links_ttl {
+		margin: 0 0 10px!important;
+	}
+	.list_column_voice_box li .txt {
+		line-height: 2!important;
+	}
+}
+
+/*20250829 visa-services ビザページの表の修正*/
+.visa_table_box table:not(:last-child) {
+	margin-bottom: 30px;
+}
+.visa_table_box .research_about_area_ttl {
+	font-weight: 700!important;
+}
+
+
+.research_about_area_ttl_s {
+	font-size: 60%;
+}
+
+@media screen and (max-width:743px) {
+	.research_about_area_ttl_s {
+	display: block;
+}
+}
+
+
+#textpage .inner .column_letter p.txt {
+	font-weight: 200 !important;
+	line-height: 1.8 !important;;
+}
+
+.company_links.career_list.letter_txt.column_letter .company_links_txt_inner .txt {
+	border-bottom: none;
 }

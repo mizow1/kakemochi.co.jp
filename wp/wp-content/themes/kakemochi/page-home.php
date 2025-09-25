@@ -68,7 +68,7 @@ if(get_the_post_thumbnail_url($post->ID, "full")){
 				<div class="inner1000">
 					<div class="box">
 						<div class="txt_box">
-							<p class="ttl orange">【8月20日】無料のオンラインセミナー</p>
+							<p class="ttl orange">【10月1日】無料のオンラインセミナー</p>
 							<p class="txt">外資の進出ハードルが高いインドネシアで<br>法人を設立せずに参入する方法を解説します。</p>
 							<a href="/seminar/overseas-expansion-to-indonesia/" class="txt_link">詳しくはこちら ></a>
 							<a href="/seminar/overseas-expansion-to-indonesia/"><p class="btm">セミナー参加者限定の<br class="sp">無料相談会あり</p></a>
@@ -710,6 +710,7 @@ if(get_the_post_thumbnail_url($post->ID, "full")){
 						<li>
 							<p class="ttl"><a href="<?php echo home_url(); ?>/sales-services/">営業支援</a></p>
 							<ul class="list_in">
+								<li><a href="<?php echo home_url(); ?>/sales-services/">販売代理支援</a></li>
 								<li><a href="<?php echo home_url(); ?>/sales-services/employer-of-record/">雇用代行</a></li>
 								<li><a href="<?php echo home_url(); ?>/sales-services/affluent-market-sales/">富裕層向け販売支援</a></li>
 								<li><a href="<?php echo home_url(); ?>/sales-services/test-marketing/">テスト販売</a></li>

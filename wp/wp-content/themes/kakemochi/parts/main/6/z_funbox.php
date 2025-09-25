@@ -1,14 +1,5 @@
-<div style="margin-top: 50px;"></div>
-<div class="hs-cta-embed hs-cta-embed-190614416446" style="max-width:100%; max-height:100%; width:860px;height:632.09375px" data-hubspot-wrapper-cta-id="190614416446">
-  <link rel="stylesheet" href="https://js.hscta.com/embeddable_cta_placeholder_v1.css">
-  <div class="hs-cta-loading-dot__container">
-     <div class="hs-cta-loading-dot"></div>
-     <div class="hs-cta-loading-dot"></div>
-     <div class="hs-cta-loading-dot"></div>
-  </div>
-  <div class="hs-cta-embed__skeleton"></div>
-  <picture>
-    <source srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" media="(max-width: 480px)" />
-    <img alt="20250521 (964 x 1200 px) -1" loading="lazy" src="https://no-cache.hubspot.com/cta/default/20720568/interactive-190614416446.png" style="height: 100%; width: 100%; object-fit: fill" onerror="this.style.display='none'" />
-  </picture>
-</div>
+<hr class="bace_c_line">
+<p class="t_txt"><span class="ttl_under_line2">ここまで記事をご覧いただいて何かご不明点や疑問点があれば、下記よりご質問ください。<br>一両日中にご返信をさせていただきます。</span></p>
+<script src="https://js.hsforms.net/forms/embed/20720568.js" defer></script>
+<div class="hs-form-frame" data-region="na1" data-form-id="1a71bb4b-7759-4a8e-8cd0-6c4cf88c2705" data-portal-id="20720568"></div>
+

@@ -1,35 +1,34 @@
-<div style="margin-top: 50px;"></div>
-<div class="ctagr">
-	<div class="title">
-	弊社にビザ申請を<br class="sp">ご発注いただくメリット
-	</div>
-	<div class="body">ビザ申請をどこかの企業に外注した際に、ビザの見積金額は大体どこも同じような金額です。よって、金額以外の部分で弊社から以下の特典をご提供しています。<br><br><span class="green">LINEかWhatsAppグループを作り、渡航時に問題が起きたらいつでも無料でご相談いただけます。</span>現地視察時には予期せぬトラブルに巻き込まれることがありますが、弊社がチーム単位でサポートすることで問題を迅速に解決していきます。
-    </div>
-</div>
+<hr class="bace_c_line">
+<p class="t_txt"><span class="ttl_under_line2">インドネシアで法人を設立する前にカジュアルにチャレンジしてみませんか？</span></p>
+<p>外資法人の設立には約1億円の資本金が必要で、内資法人の設立には株主リスクを抱えた経営が必要になります。インドネシアという巨大で魅力的な市場に対して、まずはカジュアルな形態で進出してみませんか？</p>
 
-<div class="sv_box_wrap">
-	<div class="sv_box_inner">
-	<ul class="company_links career_list company_links_one letter_txt">
-		<li>
-			<div class="company_links_txt_inner">
-				<p class="company_links_ttl"><span class="orange">●</span>制作会社様</p>
-				<p class="txt">通訳を手配せずに渡航したのはいいけど、地元警察との対応に困っていた時に助けてもらった。</p>
-			</div>
-		</li>
-		<li>
-			<div class="company_links_txt_inner">
-				<p class="company_links_ttl"><span class="orange">●</span>紹介会社様</p>
-				<p class="txt">急遽会議室の準備が必要になった時に、代わりに手配をしてもらえたのはありがたかったです。</p>
-			</div>
-		</li>
-		<li>
-			<div class="company_links_txt_inner">
-				<p class="company_links_ttl"><span class="orange">●</span>化粧品会社様</p>
-				<p class="txt">夜に同僚と飲み終わった後、タクシーを捕まえられなかった時に車を手配してくれて助かった。</p>
-			</div>
-		</li>
-	</ul>
-	</div>
-	<a href="/visa-services/"><p class="footer_btns_txt_btn"><span>ビザの種類と目的の説明はこちら</span></p></a>
+<div class="inner1000">
+<figure class="wp-block-table">
+	<table>
+		<thead>
+			<tr>
+				<th>対象企業</th>
+				<th>インドネシア進出の目的</th>
+				<th>参考ページ</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>人材紹介会社</td>
+				<td>インドネシアから技能実習や特定技能の人材を送り出したい</td>
+				<td>進出方法は<a href="/member/how-to-start-a-ssw-business-in-indonesia/">こちら</a></td>
+			</tr>
+			<tr>
+				<td>広告代理店</td>
+				<td>在インドネシアの日系企業の広告運用案件を獲得したい</td>
+				<td>進出方法は<a href="/column/how-to-start-an-advertising-agency-business-in-indonesia/">こちら</a></td>
+			</tr>
+			<tr>
+				<td>Web制作会社</td>
+				<td>インドネシアでサイト制作やオフショア開発を行いたい</td>
+				<td>進出方法は<a href="/column/how-to-start-a-web-development-company-in-indonesia/">こちら</a></td>
+			</tr>
+		</tbody>
+	</table>
+</figure>
 </div>
-

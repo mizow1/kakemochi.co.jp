@@ -1,5 +1,13 @@
-<hr class="bace_c_line">
-<p class="t_txt"><span class="ttl_under_line2">ここまで記事をご覧いただいて何かご不明点や疑問点があれば、下記よりご質問ください。<br>一両日中にご返信をさせていただきます。<br>インドネシアの小売関連ビジネスのご質問であれば何でも構いません。</span></p>
-<script src="https://js.hsforms.net/forms/embed/20720568.js" defer></script>
-<div class="hs-form-frame" data-region="na1" data-form-id="1a71bb4b-7759-4a8e-8cd0-6c4cf88c2705" data-portal-id="20720568"></div>
-
+<div style="margin-top: 50px;"></div>
+<div class="page_index_box">
+    <div class="parts_area_ttl">店舗に1万円でガチャガチャマシーンを置いてみませんか？</div>
+    <div class="bounce-ideas-off-client_toplist">
+        <ul>
+            <li>インドネシア人見込み客の集客に悩んでいる</li>            
+            <li>店舗に子供が集まるような仕掛けを企画したい</li>            
+            <li>他のお店が真似しづらいPR方法を実施したい</li> 
+            <li>日本らしさがお客様に伝わるような販促をしたい</li>
+        </ul>
+    </div>
+	<a href="/sales-services/sale-of-capsule-toys/"><p class="footer_btns_txt_btn"><span>サービスの詳細はこちら</span></p></a>
+</div>

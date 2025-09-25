@@ -20,4 +20,4 @@
 </div>
 
 <div style="margin-top: 30px;"></div>
-<a href="/founding-services/market-research/inspection-tour/" class="btn_all">現地視察サービスの概要はこちら</a>
+<a href="/founding-services/inspection-tour/" class="btn_all">現地視察サービスの概要はこちら</a>
