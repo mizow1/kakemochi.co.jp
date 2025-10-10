@@ -12,30 +12,24 @@
 </section>
 
 <div class="page_index_box">
-	<h2 class="new_h2_ttl">現地視察に役立つ情報が必要な方へ<br><span class="page_index_box_ttl_s">（クリックすれば読みたい記事へ移動できます）</span></h2>
+	<h2 class="new_h2_ttl">市場調査に役立つ情報が必要な方へ<br><span class="page_index_box_ttl_s">（クリックすれば読みたい記事へ移動できます）</span></h2>
 
 	<dl class="page_index_list">
-		<dt><a href="/column/complete-guide-to-preparing-for-your-indonesian-visit/">01</a></dt>
+		<dt><a href="/column/indonesia-gdp-ranking/">01</a></dt>
 		<dd>
-			<h3><a href="/column/complete-guide-to-preparing-for-your-indonesian-visit/">インドネシアへ向けた現地視察準備の完全ガイド</a></h3>
+			<h3><a href="/column/indonesia-gdp-ranking/">インドネシアのGDPランキングおよび1人あたりのGDPの推移</a></h3>
 		</dd>
 	</dl>
 	<dl class="page_index_list">
-		<dt><a href="/column/recommended-restaurants-when-visiting-indonesia-for-an-on-site-inspection/">02</a></dt>
+		<dt><a href="/column/average-monthly-income-in-indonesia/">02</a></dt>
 		<dd>
-			<h3><a href="/column/recommended-restaurants-when-visiting-indonesia-for-an-on-site-inspection/">ジャカルタへ現地視察に行く際のおすすめ「飲食店」</a></h3>
+			<h3><a href="/column/average-monthly-income-in-indonesia/">インドネシアの平均月収（都市と地方、様々な職種で比較する給与差）</a></h3>
 		</dd>
 	</dl>
 	<dl class="page_index_list">
-		<dt><a href="/column/recommended-hotels-for-on-site-inspections-in-indonesia/">03</a></dt>
+		<dt><a href="/column/price-comparison-between-japan-and-indonesia/">03</a></dt>
 		<dd>
-			<h3><a href="/column/recommended-hotels-for-on-site-inspections-in-indonesia/">ジャカルタへ現地視察に行く際のおすすめ「ホテル」</a></h3>
-		</dd>
-	</dl>
-	<dl class="page_index_list">
-		<dt><a href="/column/how-to-use-sim-cards-and-esims-in-indonesia/">04</a></dt>
-		<dd>
-			<h3><a href="/column/how-to-use-sim-cards-and-esims-in-indonesia/">インドネシアでSIMカードやeSIMを使う方法</a></h3>
+			<h3><a href="/column/price-comparison-between-japan-and-indonesia/">インドネシアの物価と日本の物価とを衣食住で比較</a></h3>
 		</dd>
 	</dl>
 </div>

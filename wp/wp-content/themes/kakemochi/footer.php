@@ -1,31 +1,155 @@
-<footer id="footer" class="area">
-	<div class="inner footer_new_box">
-		<div class="footer_new_l">
-			<script src="https://js.hsforms.net/forms/embed/20720568.js" defer></script>
-			<div class="hs-form-frame" data-region="na1" data-form-id="98edf93b-9fd9-49db-9cd6-0e1f2a525b29" data-portal-id="20720568"></div>
-		</div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const sideFooter = document.querySelector(".new_footer_2025_side");
+  const footer = document.querySelector("footer.new_footer_2025");
+  if (!footer) return;
 
-		<div class="footer_new_r">
-		<p class="footer_new_ttl">フッターまでご覧いただき<br class="sp">ありがとうございます</p>
-		<p class="footer_new_txt">フッターのこの部分までたどり着くユーザーさんは、全体の10％程度しかいないです。本当にわずかです。<br class="pc">でも、ここまでたどり着いて、この文章を読んでいただいているお客様は弊社にとって特別なお客様で<br class="pc">とても熱心に弊社のコラム記事やサービスページを読んでいただいた方なので、<br class="pc">きっとお仕事をご一緒したら相性が良いのではないかと勝手にワクワクしています。<br><br>
-			是非一度私たちに貴社が抱えるインドネシア進出やインドネシア人集客についてのお悩みを相談してみませんか？<br><br>
-			「今は相談するまでもないかも」と思っても、相談してみると意外と多くの気付きや参考情報を得れたりします。<br class="pc">こうやって出会えたことが奇跡なので、1秒でも迷ったらお問い合わせをください。<br><br>
-			初回のお問い合わせは無料なのと、お打ち合わせは代表の柳沢が誠心誠意お話させていただきます。</p>
-			<p class="footer_new_btn"><a href="<?php echo home_url(); ?>/contact/"><img src="<?php echo get_theme_file_uri(); ?>/img/common/footer_btn.png" alt="お問い合わせはこちら"></a></p>
+  const path = window.location.pathname;
 
-			<div class="footer_new_bottom">
-				<p class="logo"><a href="<?php echo home_url(); ?>"><img alt="カケモチ" src="<?php echo get_theme_file_uri(); ?>/img/common/footer_logo.png"></a></p>
+  // /column/、/interview/、/member/ が含まれる場合は非表示 & クラス追加
+  if (path.includes("/column/") || path.includes("/interview/") || path.includes("/member/")) {
+    if (sideFooter) sideFooter.style.display = "none";
+    footer.classList.add("new_footer_for_column");
+  }
+});
+</script>
 
-				<p class="ttl">カケモチ株式会社 〒160-0023<br>
-				東京都新宿区西新宿1-4-11 全研プラザ SPACES新宿
-			</p>
+
+
+
+
+<!-- 202509 new_footer -->
+		<footer class="new_footer_2025">
+			<div class="inner">
+				<!-- side -->
+				<div class="new_footer_2025_side">
+					<div class="box">
+						<p class="new_footer_side_ttl">ニュースレターを登録する</p>
+						<p class="new_footer_side_txt">インドネシアへの進出支援や、インドネシア国内におけるWebマーケティング支援、あるいはインドネシア人向けコミュニティの運営をしていることから、インドネシアでビジネスを行うために重要なトピックに厳選してニュースをお届けすることができます。</p>
+						<p class="new_footer_side_btn"><a href="<?php echo home_url(); ?>/newsletter/">無料で登録する</a></p>
+					</div>
+					<div class="box">
+						<p class="new_footer_side_ttl">お役立ち資料をダウンロードする</p>
+						<p class="new_footer_side_txt">カケモチの資料、導入事例集、お役立ち資料を ダウンロードしていただくことができます。インドネシア進出をご検討中の企業様にとっては役に立つ資料だと自信を持ってお届けしています。資料をご覧になられてのご質問はいつでもお気軽にご連絡ください。</p>
+						<p class="new_footer_side_btn"><a href="<?php echo home_url(); ?>/white-paper-download/">無料でDLする</a></p>
+					</div>
+				</div>
+				<!-- //side -->
+
+				<!-- contents -->
+				<div class="new_footer_2025_contents">
+					<div class="new_footer_2025_contents_top">
+						<div class="in">
+							<div class="box">
+								<p class="new_footer_ttl"><a href="<?php echo home_url(); ?>/founding-services/">進出支援</a></p>
+								<ul class="new_footer_list">
+									<li><a href="<?php echo home_url(); ?>/founding-services/">法人設立</a></li>
+									<li><a href="<?php echo home_url(); ?>/founding-services/founding-representative-office/">駐在員事務所設立</a></li>
+									<li><a href="<?php echo home_url(); ?>/founding-services/offshore-development/">オフショア開発</a></li>
+									<li><a href="<?php echo home_url(); ?>/founding-services/market-research/">市場調査</a></li>
+									<li><a href="<?php echo home_url(); ?>/founding-services/survey/">アンケート調査</a></li>
+									<li><a href="<?php echo home_url(); ?>/halal-business-services/">ハラル対応支援サービス</a></li>
+								</ul>
+							</div>
+							<div class="box">
+								<p class="new_footer_ttl"><a href="<?php echo home_url(); ?>/founding-services/">管理業務支援</a></p>
+								<ul class="new_footer_list">
+									<li><a href="<?php echo home_url(); ?>/founding-services/accounting/">会計・経理業務</a></li>
+									<li><a href="<?php echo home_url(); ?>/founding-services/human-resources/">人事・労務業務</a></li>
+									<li><a href="<?php echo home_url(); ?>/founding-services/online-secretary/">総務・秘書業務</a></li>
+									<li><a href="<?php echo home_url(); ?>/founding-services/translation/">通訳・翻訳</a></li>
+									<li><a href="<?php echo home_url(); ?>/founding-services/second-opinion/">セカンドオピニオン</a></li>
+									<li><a href="<?php echo home_url(); ?>/founding-services/government-subsidy/">補助金支援サービス</a></li>								
+								</ul>
+							</div>
+							<div class="box">
+								<p class="new_footer_ttl"><a href="<?php echo home_url(); ?>/webmarketing-services/">集客支援</a></p>
+								<ul class="new_footer_list">
+									<li><a href="<?php echo home_url(); ?>/webmarketing-services/support-web-marketing/">Webマーケ顧問</a></li>
+									<li><a href="<?php echo home_url(); ?>/webmarketing-services/internet-advertising-agency/">広告運用</a></li>
+									<li><a href="<?php echo home_url(); ?>/webmarketing-services/instagram-ads/">インスタ広告運用</a></li>
+									<li><a href="<?php echo home_url(); ?>/webmarketing-services/influencer-marketing/">インフルエンサーマーケティング</a></li>
+									<li><a href="<?php echo home_url(); ?>/webmarketing-services/remarketing/">リマーケティング広告</a></li>
+									<li><a href="<?php echo home_url(); ?>/webmarketing-services/content-marketing/">コンテンツマーケティング</a></li>
+									<li><a href="<?php echo home_url(); ?>/webmarketing-services/inbound-services/">訪日インバウンド</a></li>
+									<li><a href="<?php echo home_url(); ?>/webmarketing-services/access-analysis/">アクセス解析</a></li>
+								</ul>
+							</div>
+							<div class="box">
+								<p class="new_footer_ttl"><a href="<?php echo home_url(); ?>/sales-services/">営業支援</a></p>
+								<ul class="new_footer_list">
+									<li><a href="<?php echo home_url(); ?>/sales-services/">販売代理支援</a></li>
+									<li><a href="<?php echo home_url(); ?>/sales-services/employer-of-record/">雇用代行</a></li>
+									<li><a href="<?php echo home_url(); ?>/sales-services/affluent-market-sales/">富裕層向け販売支援</a></li>
+									<li><a href="<?php echo home_url(); ?>/sales-services/test-marketing/">テスト販売</a></li>
+									<li><a href="<?php echo home_url(); ?>/sales-services/cross-border-e-commerce/">越境EC</a></li>
+									<li><a href="<?php echo home_url(); ?>/sales-services/live-commerce/">ライブコマース</a></li>
+									<li><a href="<?php echo home_url(); ?>/sales-services/cross-border-e-commerce/">化粧品販売</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="in">
+							<div class="box">
+								<p class="new_footer_ttl"><a href="#" class="no_link">料金表</a></p>
+								<ul class="new_footer_list">
+									<li><a href="<?php echo home_url(); ?>/column/price-list-for-japan/">インドネシア進出支援</a></li>
+									<li><a href="<?php echo home_url(); ?>/column/price-list-for-indonesia/">駐在員向けサービス</a></li>
+								</ul>
+							</div>
+							<div class="box">
+								<div class="box_in mb40">
+									<p class="new_footer_ttl"><a href="#" class="no_link">採用</a></p>
+									<ul class="new_footer_list">
+										<li><a href="<?php echo home_url(); ?>/careers/#careers_i">インドネシア人の採用</a></li>
+										<li><a href="<?php echo home_url(); ?>/careers/#careers_j">日本人の採用</a></li>
+									</ul>
+								</div>
+								<div class="box_in">
+									<p class="new_footer_ttl"><a href="#" class="no_link">社風・メッセージ</a></p>
+									<ul class="new_footer_list">
+										<li><a href="<?php echo home_url(); ?>/company/company-name/">社名の由来</a></li>
+										<li><a href="<?php echo home_url(); ?>/company/message/">代表メッセージ</a></li>
+										<li><a href="<?php echo home_url(); ?>/company/company-official-language/">社内公用語</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="box">
+								<p class="new_footer_ttl"><a href="#" class="no_link">お役立ち情報</a></p>
+								<ul class="new_footer_list">
+									<li><a href="<?php echo home_url(); ?>/column/">コラム記事</a></li>
+									<li><a href="<?php echo home_url(); ?>/member/">会員記事</a></li>
+									<li><a href="<?php echo home_url(); ?>/interview/">インタビュー記事</a></li>
+									<li><a href="<?php echo home_url(); ?>/white-paper-download/">お役立ち資料</a></li>
+								</ul>
+							</div>
+							<div class="box">
+								<p class="new_footer_ttl"><a href="#" class="no_link">個人向け移住支援</a></p>
+								<ul class="new_footer_list">
+									<li><a href="#">作成中</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- //contents -->
 			</div>
 
-			<p class="copy">Copyright <span lang="en">&copy;</span> Kakemochi Co., Ltd.<br><br><a href="https://tricruise.id/">PT. TRICRUISE MARKETING INDONESIA</a></p>
-
+			<div class="new_footer_2025_contents_bottom">
+				<div class="in">
+					<div class="box">
+						<p class="logo"><a href="<?php echo home_url(); ?>/"><img src="<?php echo get_theme_file_uri(); ?>/img/common/new_footer_logo.png" alt="カケモチ"></a></p>
+						<ul class="new_footer_bottom_list">
+							<li><a href="<?php echo home_url(); ?>/company/">会社概要</a></li>
+							<li><a href="<?php echo home_url(); ?>/member_login/">ログイン</a></li>
+							<li><a href="<?php echo home_url(); ?>/company/nda/">秘密保持規約</a></li>
+							<li><a href="<?php echo home_url(); ?>/company/privacy/">プライバシーポリシー</a></li>
+						</ul>
+					</div>
+					<p class="copy">Copyright &copy; Kakemochi Co., Ltd.</p>
+				</div>
 			</div>
-	</div>
-</footer>
+		</footer>
+		<!-- //202509 new_footer -->
 <!-- footer end -->
 <!--固定LINE-->
 <div class="footer_line">

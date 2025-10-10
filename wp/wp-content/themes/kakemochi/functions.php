@@ -378,7 +378,7 @@ function add_breadcrumb()
 function admin_breadcrumb()
 {
 
-	$post_id = $_GET['post'];
+	$post_id = isset($_GET['post']) ? $_GET['post'] : 0;
 	$post = get_post($post_id);
 
 	$str = '';

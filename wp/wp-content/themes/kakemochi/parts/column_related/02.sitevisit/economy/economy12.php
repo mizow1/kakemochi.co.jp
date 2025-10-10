@@ -1,6 +1,6 @@
 <?php
 //リストにしたい記事ID(半角数字)を「,」区切りでここに書く
-$post_ids = [14395,14405,14446];
+$post_ids = [1630,11375];
 
 // get_template_part('column_related',null,$args);
 
@@ -18,7 +18,7 @@ $now_id = get_the_ID();
 	<div class="box">
 		<div class="ttl_box">
 			<p class="ttl">関連記事</p>
-			<a href="<?php echo home_url(); ?>/founding-services/" class="btn_contact">インドネシアで会社を設立したい方はこちら</a>
+			<a href="<?php echo home_url(); ?>/marketing-services/inspection-tour/" class="btn_contact">現地視察の準備にお困りの方はこちら</a>
 		</div>
 
 		<ul class="wp-block-my-gutenberg-list textpage_list01">

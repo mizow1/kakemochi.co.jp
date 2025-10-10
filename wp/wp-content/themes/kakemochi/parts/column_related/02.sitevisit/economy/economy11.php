@@ -1,6 +1,6 @@
 <?php
 //リストにしたい記事ID(半角数字)を「,」区切りでここに書く
-$post_ids = [1487,11365,1630,11375];
+$post_ids = [1487,11365];
 
 // get_template_part('column_related',null,$args);
 

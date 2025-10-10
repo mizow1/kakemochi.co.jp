@@ -9,15 +9,7 @@
 				</div>
 			</div>-->
 
-			<a href="/seminar/overseas-expansion-to-indonesia/"><img src="/wp/wp-content/themes/kakemochi/img/column/side_area_seminar_founding.png" alt="インドネシア進出セミナー" /></a>
-			<a href="/seminar/overseas-expansion-to-indonesia/"><p class="footer_btns_txt_btn"><span>無料で申し込む</span></p></a>
-
-			<p class="footer_btns_txt_ttl_s">サイト内の情報を検索できます</p>
-			<div class="side_search">
-				<?php
-				$args['post_type'] = 'column';
-				get_template_part('search', null, $args);
-				?>
-			</div>
+			    <script src="https://js.hsforms.net/forms/embed/20720568.js" defer></script>
+				<div class="hs-form-frame" data-region="na1" data-form-id="decd1acf-6fe1-4363-b1e2-378e29a0eb57" data-portal-id="20720568"></div>
 	</aside>
 	<!-- left end -->

@@ -13,13 +13,13 @@
                         <a href="/founding-services/inspection-tour/" class="gnav_top_l">現地視察</a>
                     </li>
                     <li class="new_nav_1st new_nav_2nd_4">
+                        <a href="/founding-services/market-research/" class="gnav_top_l">市場調査</a>
+                    </li>
+                    <li class="new_nav_1st new_nav_2nd_4">
                         <a href="/founding-services/" class="gnav_top_l">法人設立</a>
                     </li>
-                    <li>
-                        <a href="/founding-services/relocation/" class="gnav_top_l">駐在準備</a>
-                    </li>           
                     <li class="new_nav_1st new_nav_2nd_5">
-                        <a href="/sales-services/" class="gnav_top_l">販売代理</a>
+                        <a href="/seminar/overseas-expansion-to-indonesia/" class="gnav_top_l">無料セミナー</a>
                     </li>
                     <li class="new_nav_1st new_nav_2nd_6">
                         <a href="/company/" class="gnav_top_l">企業情報</a>

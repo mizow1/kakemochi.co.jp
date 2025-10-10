@@ -53,8 +53,9 @@ $posts_arr = new WP_Query($args);
 						
 						<ul class="voice_list">
 
-<?php 
-for($i=$start_post_count;$i<$end_post_count;$i++):
+<?php
+$actual_end_count = min($end_post_count, count($posts_arr->posts));
+for($i=$start_post_count;$i<$actual_end_count;$i++):
 	$post = $posts_arr->posts[$i];
 	if(!empty($post)):
  ?>

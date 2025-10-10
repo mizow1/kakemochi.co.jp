@@ -68,7 +68,7 @@ if(get_the_post_thumbnail_url($post->ID, "full")){
 				<div class="inner1000">
 					<div class="box">
 						<div class="txt_box">
-							<p class="ttl orange">【10月1日】無料のオンラインセミナー</p>
+							<p class="ttl orange">【10月15日】無料のオンラインセミナー</p>
 							<p class="txt">外資の進出ハードルが高いインドネシアで<br>法人を設立せずに参入する方法を解説します。</p>
 							<a href="/seminar/overseas-expansion-to-indonesia/" class="txt_link">詳しくはこちら ></a>
 							<a href="/seminar/overseas-expansion-to-indonesia/"><p class="btm">セミナー参加者限定の<br class="sp">無料相談会あり</p></a>

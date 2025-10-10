@@ -1,34 +1,23 @@
 <hr class="bace_c_line">
-<p class="t_txt"><span class="ttl_under_line2">インドネシアで法人を設立する前にカジュアルにチャレンジしてみませんか？</span></p>
-<p>外資法人の設立には約1億円の資本金が必要で、内資法人の設立には株主リスクを抱えた経営が必要になります。インドネシアという巨大で魅力的な市場に対して、まずはカジュアルな形態で進出してみませんか？</p>
+<div style="margin-top: 50px;"></div>
+<div class="parts_area_ttl">現地視察時のトラブル体験談</div>
+<div style="margin-top: 30px;"></div>
+<div class="common_parts_w1000">
 
-<div class="inner1000">
-<figure class="wp-block-table">
-	<table>
-		<thead>
-			<tr>
-				<th>対象企業</th>
-				<th>インドネシア進出の目的</th>
-				<th>参考ページ</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>人材紹介会社</td>
-				<td>インドネシアから技能実習や特定技能の人材を送り出したい</td>
-				<td>進出方法は<a href="/member/how-to-start-a-ssw-business-in-indonesia/">こちら</a></td>
-			</tr>
-			<tr>
-				<td>広告代理店</td>
-				<td>在インドネシアの日系企業の広告運用案件を獲得したい</td>
-				<td>進出方法は<a href="/column/how-to-start-an-advertising-agency-business-in-indonesia/">こちら</a></td>
-			</tr>
-			<tr>
-				<td>Web制作会社</td>
-				<td>インドネシアでサイト制作やオフショア開発を行いたい</td>
-				<td>進出方法は<a href="/column/how-to-start-a-web-development-company-in-indonesia/">こちら</a></td>
-			</tr>
-		</tbody>
-	</table>
-</figure>
+    <ul class="access_com_list bace_ul_clear list_column_trouble">
+        <li>
+            <p class="ttl">タクシーのトラブル</p>
+            <p class="name">Web/IT企業</p>
+            <p class="txt">現地での移動は配車アプリを利用する予定でしたが、ちょうど朝のラッシュ時間帯と大雨が重なり、<span class="orange">30分以上待ってもタクシーがつかまりませんでした。</span>結局、急遽バイクタクシーを手配したものの渋滞で到着が遅れ、午前中に予定していた2件の商談のうち1件は延期せざるを得ませんでした。</p>
+        </li>
+        <li>
+            <p class="ttl">通訳のトラブル</p>
+            <p class="name">化粧品メーカー</p>
+            <p class="txt">ジャカルタ市内から郊外の取引先に移動したところ、フリーランスの現地通訳が突然キャンセル。英語が通じにくい地域だったため、商談の細かいニュアンスを伝えきれなかったので悔やしい思いをしました。<span class="orange">安価なフリーランスではなく、企業に依頼しておけば良かったと後悔しました。</span></p>
+        </li>
+    </ul>
+
 </div>
+
+<div style="margin-top: 30px;"></div>
+<a href="/founding-services/inspection-tour/" class="btn_all">現地視察サービスの概要はこちら</a>

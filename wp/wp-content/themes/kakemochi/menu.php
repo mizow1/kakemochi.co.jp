@@ -35,9 +35,9 @@ $categories = get_categories($args);
 		<ul class="wrap">
 			<li><a href="<?php echo home_url(); ?>/visa-services/" class="drp_icon gnav_top_f">ビザ申請</a></li>
 			<li><a href="<?php echo home_url(); ?>/founding-services/inspection-tour/" class="drp_icon gnav_top_f">現地視察</a></li>
+			<li><a href="<?php echo home_url(); ?>/founding-services/market-research/" class="drp_icon gnav_top_f">市場調査</a></li>
 			<li><a href="<?php echo home_url(); ?>/founding-services/" class="drp_icon gnav_top_f">法人設立</a></li>
-			<li><a href="<?php echo home_url(); ?>/founding-services/relocation/" class="drp_icon gnav_top_f">駐在準備</a></li>
-			<li><a href="<?php echo home_url(); ?>/sales-services/" class="drp_icon gnav_top_f">販売代理</a></li>
+			<li><a href="<?php echo home_url(); ?>/seminar/overseas-expansion-to-indonesia/" class="drp_icon gnav_top_f">無料セミナー</a></li>
 			<li><a href="<?php echo home_url(); ?>/company/" class="drp_icon gnav_top_f">企業情報</a></li>
 			<li><a href="<?php echo home_url(); ?>/white-paper-download/" class="drp_icon gnav_top_f">お役立ち資料</a></li>
 		</ul>
